@@ -1,4 +1,4 @@
-## Principal Backend Engineer & Systems Architect
+## 🧐 백엔드 엔지니어 및 시스템 설계자
 
 > Turning chaos into structure.
 
